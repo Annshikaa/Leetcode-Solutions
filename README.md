@@ -6,6 +6,7 @@ Consistent DSA practice — solving LeetCode problems daily with clean code, exp
 ## Array
 |  |
 | ------- |
+| [0063-unique-paths-ii](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0063-unique-paths-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [2751-robot-collisions](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/2751-robot-collisions) |
@@ -27,12 +28,14 @@ Consistent DSA practice — solving LeetCode problems daily with clean code, exp
 ## Dynamic Programming
 |  |
 | ------- |
+| [0063-unique-paths-ii](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0063-unique-paths-ii) |
 | [0097-interleaving-string](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0097-interleaving-string) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 ## Matrix
 |  |
 | ------- |
+| [0063-unique-paths-ii](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0063-unique-paths-ii) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 ## String
