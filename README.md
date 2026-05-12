@@ -63,6 +63,7 @@ Consistent DSA practice — solving LeetCode problems daily with clean code, exp
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0002-add-two-numbers) |
 | [0023-merge-k-sorted-lists](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0023-merge-k-sorted-lists) |
 ## Divide and Conquer
 |  |
@@ -89,10 +90,15 @@ Consistent DSA practice — solving LeetCode problems daily with clean code, exp
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0009-palindrome-number) |
 ## Two Pointers
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0018-4sum) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
