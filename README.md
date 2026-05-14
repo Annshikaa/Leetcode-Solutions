@@ -55,6 +55,7 @@ Consistent DSA practice — solving LeetCode problems daily with clean code, exp
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0020-valid-parentheses) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0097-interleaving-string](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0097-interleaving-string) |
@@ -84,11 +85,13 @@ Consistent DSA practice — solving LeetCode problems daily with clean code, exp
 ## Hash Table
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0041-first-missing-positive](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0041-first-missing-positive) |
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0030-substring-with-concatenation-of-all-words) |
 ## Math
 |  |
