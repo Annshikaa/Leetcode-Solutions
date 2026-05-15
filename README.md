@@ -6,6 +6,7 @@ Consistent DSA practice — solving LeetCode problems daily with clean code, exp
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0001-two-sum) |
 | [0016-3sum-closest](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0018-4sum) |
 | [0031-next-permutation](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0031-next-permutation) |
@@ -86,6 +87,7 @@ Consistent DSA practice — solving LeetCode problems daily with clean code, exp
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0041-first-missing-positive](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0041-first-missing-positive) |
