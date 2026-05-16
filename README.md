@@ -108,6 +108,7 @@ Consistent DSA practice — solving LeetCode problems daily with clean code, exp
 | [0002-add-two-numbers](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0009-palindrome-number) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0593-valid-square](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0593-valid-square) |
 ## Two Pointers
 |  |
 | ------- |
@@ -123,4 +124,8 @@ Consistent DSA practice — solving LeetCode problems daily with clean code, exp
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0155-min-stack) |
+## Geometry
+|  |
+| ------- |
+| [0593-valid-square](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0593-valid-square) |
 <!---LeetCode Topics End-->
