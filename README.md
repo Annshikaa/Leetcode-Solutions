@@ -20,6 +20,7 @@ Consistent DSA practice — solving LeetCode problems daily with clean code, exp
 | [0150-evaluate-reverse-polish-notation](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0152-maximum-product-subarray](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0152-maximum-product-subarray) |
 | [0164-maximum-gap](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0164-maximum-gap) |
+| [0169-majority-element](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0169-majority-element) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [2751-robot-collisions](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/2751-robot-collisions) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
@@ -39,6 +40,7 @@ Consistent DSA practice — solving LeetCode problems daily with clean code, exp
 | [0018-4sum](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0018-4sum) |
 | [0049-group-anagrams](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0049-group-anagrams) |
 | [0164-maximum-gap](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0164-maximum-gap) |
+| [0169-majority-element](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0242-valid-anagram) |
 | [2751-robot-collisions](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/2751-robot-collisions) |
 ## Simulation
@@ -93,6 +95,7 @@ Consistent DSA practice — solving LeetCode problems daily with clean code, exp
 | [0004-median-of-two-sorted-arrays](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0023-merge-k-sorted-lists](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0023-merge-k-sorted-lists) |
 | [0053-maximum-subarray](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0169-majority-element) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -109,6 +112,7 @@ Consistent DSA practice — solving LeetCode problems daily with clean code, exp
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0041-first-missing-positive](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0049-group-anagrams) |
+| [0169-majority-element](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0242-valid-anagram) |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [2514-count-anagrams](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/2514-count-anagrams) |
@@ -148,6 +152,7 @@ Consistent DSA practice — solving LeetCode problems daily with clean code, exp
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0169-majority-element) |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [2514-count-anagrams](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/2514-count-anagrams) |
 ## Binary Search
