@@ -12,6 +12,7 @@ Consistent DSA practice — solving LeetCode problems daily with clean code, exp
 | [0018-4sum](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0018-4sum) |
 | [0031-next-permutation](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0031-next-permutation) |
 | [0041-first-missing-positive](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0041-first-missing-positive) |
+| [0049-group-anagrams](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0053-maximum-subarray) |
 | [0063-unique-paths-ii](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0063-unique-paths-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -36,6 +37,7 @@ Consistent DSA practice — solving LeetCode problems daily with clean code, exp
 | ------- |
 | [0016-3sum-closest](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0018-4sum) |
+| [0049-group-anagrams](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0049-group-anagrams) |
 | [0164-maximum-gap](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0164-maximum-gap) |
 | [0242-valid-anagram](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0242-valid-anagram) |
 | [2751-robot-collisions](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/2751-robot-collisions) |
@@ -68,6 +70,7 @@ Consistent DSA practice — solving LeetCode problems daily with clean code, exp
 | [0003-longest-substring-without-repeating-characters](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0020-valid-parentheses) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0049-group-anagrams](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0049-group-anagrams) |
 | [0097-interleaving-string](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0097-interleaving-string) |
 | [0125-valid-palindrome](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0242-valid-anagram) |
@@ -104,6 +107,7 @@ Consistent DSA practice — solving LeetCode problems daily with clean code, exp
 | [0003-longest-substring-without-repeating-characters](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0041-first-missing-positive](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0041-first-missing-positive) |
+| [0049-group-anagrams](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0242-valid-anagram) |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 ## Sliding Window
