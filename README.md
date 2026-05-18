@@ -22,6 +22,7 @@ Consistent DSA practice — solving LeetCode problems daily with clean code, exp
 | [0164-maximum-gap](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0164-maximum-gap) |
 | [0169-majority-element](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0169-majority-element) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
+| [1861-rotating-the-box](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/1861-rotating-the-box) |
 | [2751-robot-collisions](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/2751-robot-collisions) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
@@ -65,6 +66,7 @@ Consistent DSA practice — solving LeetCode problems daily with clean code, exp
 | ------- |
 | [0063-unique-paths-ii](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0063-unique-paths-ii) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
+| [1861-rotating-the-box](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/1861-rotating-the-box) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 ## String
 |  |
@@ -137,6 +139,7 @@ Consistent DSA practice — solving LeetCode problems daily with clean code, exp
 | [0018-4sum](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0018-4sum) |
 | [0031-next-permutation](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0031-next-permutation) |
 | [0125-valid-palindrome](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0125-valid-palindrome) |
+| [1861-rotating-the-box](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/1861-rotating-the-box) |
 ## Recursion
 |  |
 | ------- |
