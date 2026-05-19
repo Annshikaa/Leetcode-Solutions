@@ -21,6 +21,7 @@ Consistent DSA practice — solving LeetCode problems daily with clean code, exp
 | [0152-maximum-product-subarray](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0152-maximum-product-subarray) |
 | [0164-maximum-gap](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0164-maximum-gap) |
 | [0169-majority-element](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0169-majority-element) |
+| [1306-jump-game-iii](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/1306-jump-game-iii) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1861-rotating-the-box](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/1861-rotating-the-box) |
 | [2751-robot-collisions](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/2751-robot-collisions) |
@@ -181,4 +182,12 @@ Consistent DSA practice — solving LeetCode problems daily with clean code, exp
 |  |
 | ------- |
 | [0796-rotate-string](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0796-rotate-string) |
+## Depth-First Search
+|  |
+| ------- |
+| [1306-jump-game-iii](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/1306-jump-game-iii) |
+## Breadth-First Search
+|  |
+| ------- |
+| [1306-jump-game-iii](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/1306-jump-game-iii) |
 <!---LeetCode Topics End-->
