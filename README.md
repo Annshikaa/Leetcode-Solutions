@@ -133,6 +133,7 @@ Consistent DSA practice — solving LeetCode problems daily with clean code, exp
 | ------- |
 | [0002-add-two-numbers](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0009-palindrome-number) |
+| [0029-divide-two-integers](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0029-divide-two-integers) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0593-valid-square](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0593-valid-square) |
 | [0670-maximum-swap](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0670-maximum-swap) |
@@ -194,4 +195,8 @@ Consistent DSA practice — solving LeetCode problems daily with clean code, exp
 |  |
 | ------- |
 | [1306-jump-game-iii](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/1306-jump-game-iii) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0029-divide-two-integers](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0029-divide-two-integers) |
 <!---LeetCode Topics End-->
