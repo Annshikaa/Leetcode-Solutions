@@ -51,6 +51,7 @@ Consistent DSA practice — solving LeetCode problems daily with clean code, exp
 ## Simulation
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0043-multiply-strings) |
 | [0657-robot-return-to-origin](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0657-robot-return-to-origin) |
 | [2751-robot-collisions](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/2751-robot-collisions) |
 ## Dynamic Programming
@@ -80,6 +81,7 @@ Consistent DSA practice — solving LeetCode problems daily with clean code, exp
 | [0003-longest-substring-without-repeating-characters](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0020-valid-parentheses) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0043-multiply-strings](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0043-multiply-strings) |
 | [0049-group-anagrams](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0049-group-anagrams) |
 | [0097-interleaving-string](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0097-interleaving-string) |
 | [0125-valid-palindrome](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0125-valid-palindrome) |
@@ -137,6 +139,7 @@ Consistent DSA practice — solving LeetCode problems daily with clean code, exp
 | [0002-add-two-numbers](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0009-palindrome-number) |
 | [0029-divide-two-integers](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0029-divide-two-integers) |
+| [0043-multiply-strings](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0043-multiply-strings) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0593-valid-square](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0593-valid-square) |
 | [0670-maximum-swap](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0670-maximum-swap) |
