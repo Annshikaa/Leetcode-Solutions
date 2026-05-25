@@ -14,6 +14,7 @@ Consistent DSA practice — solving LeetCode problems daily with clean code, exp
 | [0035-search-insert-position](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0035-search-insert-position) |
 | [0036-valid-sudoku](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0036-valid-sudoku) |
 | [0041-first-missing-positive](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0041-first-missing-positive) |
+| [0047-permutations-ii](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0053-maximum-subarray) |
 | [0063-unique-paths-ii](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0063-unique-paths-ii) |
@@ -43,6 +44,7 @@ Consistent DSA practice — solving LeetCode problems daily with clean code, exp
 | ------- |
 | [0016-3sum-closest](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0018-4sum) |
+| [0047-permutations-ii](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0049-group-anagrams) |
 | [0164-maximum-gap](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0164-maximum-gap) |
 | [0169-majority-element](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0169-majority-element) |
@@ -209,4 +211,8 @@ Consistent DSA practice — solving LeetCode problems daily with clean code, exp
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0029-divide-two-integers) |
+## Backtracking
+|  |
+| ------- |
+| [0047-permutations-ii](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0047-permutations-ii) |
 <!---LeetCode Topics End-->
