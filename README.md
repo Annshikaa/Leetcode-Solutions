@@ -15,6 +15,7 @@ Consistent DSA practice — solving LeetCode problems daily with clean code, exp
 | [0031-next-permutation](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0031-next-permutation) |
 | [0035-search-insert-position](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0035-search-insert-position) |
 | [0036-valid-sudoku](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0036-valid-sudoku) |
+| [0040-combination-sum-ii](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0040-combination-sum-ii) |
 | [0041-first-missing-positive](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0041-first-missing-positive) |
 | [0047-permutations-ii](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0049-group-anagrams) |
@@ -226,6 +227,7 @@ Consistent DSA practice — solving LeetCode problems daily with clean code, exp
 ## Backtracking
 |  |
 | ------- |
+| [0040-combination-sum-ii](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0040-combination-sum-ii) |
 | [0047-permutations-ii](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0047-permutations-ii) |
 | [0078-subsets](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0078-subsets) |
 ## Trie
