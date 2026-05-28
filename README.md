@@ -9,6 +9,7 @@ Consistent DSA practice — solving LeetCode problems daily with clean code, exp
 | [0001-two-sum](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0014-longest-common-prefix](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0014-longest-common-prefix) |
+| [0015-3sum](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0018-4sum) |
 | [0031-next-permutation](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0031-next-permutation) |
@@ -44,6 +45,7 @@ Consistent DSA practice — solving LeetCode problems daily with clean code, exp
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0018-4sum) |
 | [0047-permutations-ii](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0047-permutations-ii) |
@@ -161,6 +163,7 @@ Consistent DSA practice — solving LeetCode problems daily with clean code, exp
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0018-4sum) |
 | [0031-next-permutation](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0031-next-permutation) |
