@@ -218,10 +218,12 @@ Consistent DSA practice — solving LeetCode problems daily with clean code, exp
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0098-validate-binary-search-tree) |
+| [0101-symmetric-tree](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0101-symmetric-tree) |
 | [1306-jump-game-iii](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/1306-jump-game-iii) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0101-symmetric-tree](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0101-symmetric-tree) |
 | [1306-jump-game-iii](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/1306-jump-game-iii) |
 ## Bit Manipulation
 |  |
@@ -243,6 +245,7 @@ Consistent DSA practice — solving LeetCode problems daily with clean code, exp
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0098-validate-binary-search-tree) |
+| [0101-symmetric-tree](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0101-symmetric-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -251,4 +254,5 @@ Consistent DSA practice — solving LeetCode problems daily with clean code, exp
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0098-validate-binary-search-tree) |
+| [0101-symmetric-tree](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0101-symmetric-tree) |
 <!---LeetCode Topics End-->
