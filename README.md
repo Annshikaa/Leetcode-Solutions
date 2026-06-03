@@ -41,6 +41,7 @@ Consistent DSA practice — solving LeetCode problems daily with clean code, exp
 | [2751-robot-collisions](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/2751-robot-collisions) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
+| [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3660-jump-game-ix](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/3660-jump-game-ix) |
 ## Stack
 |  |
@@ -64,6 +65,7 @@ Consistent DSA practice — solving LeetCode problems daily with clean code, exp
 | [0242-valid-anagram](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0242-valid-anagram) |
 | [2126-destroying-asteroids](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/2126-destroying-asteroids) |
 | [2751-robot-collisions](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/2751-robot-collisions) |
+| [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 ## Simulation
 |  |
 | ------- |
@@ -126,6 +128,7 @@ Consistent DSA practice — solving LeetCode problems daily with clean code, exp
 | [0670-maximum-swap](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0670-maximum-swap) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [2126-destroying-asteroids](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/2126-destroying-asteroids) |
+| [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 ## Linked List
 |  |
 | ------- |
@@ -196,6 +199,7 @@ Consistent DSA practice — solving LeetCode problems daily with clean code, exp
 | [0125-valid-palindrome](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0189-rotate-array) |
 | [1861-rotating-the-box](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/1861-rotating-the-box) |
+| [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 ## Recursion
 |  |
 | ------- |
@@ -221,6 +225,7 @@ Consistent DSA practice — solving LeetCode problems daily with clean code, exp
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0035-search-insert-position](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0035-search-insert-position) |
+| [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 ## Bucket Sort
 |  |
 | ------- |
