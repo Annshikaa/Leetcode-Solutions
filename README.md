@@ -124,6 +124,7 @@ Consistent DSA practice — solving LeetCode problems daily with clean code, exp
 | [1871-jump-game-vii](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/1871-jump-game-vii) |
 | [2514-count-anagrams](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/2514-count-anagrams) |
 | [3093-longest-common-suffix-queries](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/3093-longest-common-suffix-queries) |
+| [3120-count-the-number-of-special-characters-i](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/3120-count-the-number-of-special-characters-i) |
 ## Greedy
 |  |
 | ------- |
@@ -168,6 +169,7 @@ Consistent DSA practice — solving LeetCode problems daily with clean code, exp
 | [0242-valid-anagram](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0242-valid-anagram) |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [2514-count-anagrams](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/2514-count-anagrams) |
+| [3120-count-the-number-of-special-characters-i](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/3120-count-the-number-of-special-characters-i) |
 ## Sliding Window
 |  |
 | ------- |
