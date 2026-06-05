@@ -114,6 +114,7 @@ Consistent DSA practice — solving LeetCode problems daily with clean code, exp
 | [0043-multiply-strings](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0043-multiply-strings) |
 | [0044-wildcard-matching](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0044-wildcard-matching) |
 | [0049-group-anagrams](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0049-group-anagrams) |
+| [0065-valid-number](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0065-valid-number) |
 | [0072-edit-distance](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0072-edit-distance) |
 | [0093-restore-ip-addresses](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0093-restore-ip-addresses) |
 | [0097-interleaving-string](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0097-interleaving-string) |
