@@ -33,6 +33,7 @@ Consistent DSA practice — solving LeetCode problems daily with clean code, exp
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0136-single-number](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0136-single-number) |
+| [0137-single-number-ii](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0137-single-number-ii) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0152-maximum-product-subarray](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0152-maximum-product-subarray) |
 | [0164-maximum-gap](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0164-maximum-gap) |
@@ -274,6 +275,7 @@ Consistent DSA practice — solving LeetCode problems daily with clean code, exp
 | [0078-subsets](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0136-single-number) |
+| [0137-single-number-ii](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0137-single-number-ii) |
 ## Backtracking
 |  |
 | ------- |
