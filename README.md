@@ -97,6 +97,7 @@ Consistent DSA practice — solving LeetCode problems daily with clean code, exp
 | [0072-edit-distance](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0072-edit-distance) |
 | [0095-unique-binary-search-trees-ii](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0095-unique-binary-search-trees-ii) |
 | [0097-interleaving-string](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0097-interleaving-string) |
+| [0115-distinct-subsequences](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0115-distinct-subsequences) |
 | [0120-triangle](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
@@ -134,6 +135,7 @@ Consistent DSA practice — solving LeetCode problems daily with clean code, exp
 | [0072-edit-distance](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0072-edit-distance) |
 | [0093-restore-ip-addresses](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0093-restore-ip-addresses) |
 | [0097-interleaving-string](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0097-interleaving-string) |
+| [0115-distinct-subsequences](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0115-distinct-subsequences) |
 | [0125-valid-palindrome](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0125-valid-palindrome) |
 | [0139-word-break](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0139-word-break) |
 | [0242-valid-anagram](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0242-valid-anagram) |
