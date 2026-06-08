@@ -49,6 +49,7 @@ Consistent DSA practice — solving LeetCode problems daily with clean code, exp
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1861-rotating-the-box](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/1861-rotating-the-box) |
 | [2126-destroying-asteroids](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/2126-destroying-asteroids) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2574-left-and-right-sum-differences](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/2574-left-and-right-sum-differences) |
 | [2751-robot-collisions](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/2751-robot-collisions) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
@@ -90,6 +91,7 @@ Consistent DSA practice — solving LeetCode problems daily with clean code, exp
 | [0054-spiral-matrix](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0054-spiral-matrix) |
 | [0068-text-justification](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0068-text-justification) |
 | [0657-robot-return-to-origin](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0657-robot-return-to-origin) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2751-robot-collisions](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/2751-robot-collisions) |
 ## Dynamic Programming
 |  |
@@ -247,6 +249,7 @@ Consistent DSA practice — solving LeetCode problems daily with clean code, exp
 | [0125-valid-palindrome](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0189-rotate-array) |
 | [1861-rotating-the-box](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/1861-rotating-the-box) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/2161-partition-array-according-to-given-pivot) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 ## Recursion
 |  |
