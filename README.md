@@ -62,6 +62,7 @@ Consistent DSA practice — solving LeetCode problems daily with clean code, exp
 | ------- |
 | [0020-valid-parentheses](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0042-trapping-rain-water) |
+| [0071-simplify-path](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0071-simplify-path) |
 | [0085-maximal-rectangle](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0085-maximal-rectangle) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -138,6 +139,7 @@ Consistent DSA practice — solving LeetCode problems daily with clean code, exp
 | [0049-group-anagrams](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0049-group-anagrams) |
 | [0065-valid-number](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0065-valid-number) |
 | [0068-text-justification](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0068-text-justification) |
+| [0071-simplify-path](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0071-simplify-path) |
 | [0072-edit-distance](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0072-edit-distance) |
 | [0076-minimum-window-substring](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0076-minimum-window-substring) |
 | [0093-restore-ip-addresses](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0093-restore-ip-addresses) |
