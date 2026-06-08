@@ -39,6 +39,7 @@ Consistent DSA practice — solving LeetCode problems daily with clean code, exp
 | [0136-single-number](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0137-single-number-ii) |
 | [0139-word-break](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0139-word-break) |
+| [0140-word-break-ii](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0140-word-break-ii) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0152-maximum-product-subarray](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0152-maximum-product-subarray) |
 | [0164-maximum-gap](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0164-maximum-gap) |
@@ -105,6 +106,7 @@ Consistent DSA practice — solving LeetCode problems daily with clean code, exp
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0139-word-break](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0139-word-break) |
+| [0140-word-break-ii](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0140-word-break-ii) |
 | [0152-maximum-product-subarray](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0152-maximum-product-subarray) |
 | [0788-rotated-digits](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0788-rotated-digits) |
 | [1871-jump-game-vii](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/1871-jump-game-vii) |
@@ -143,6 +145,7 @@ Consistent DSA practice — solving LeetCode problems daily with clean code, exp
 | [0115-distinct-subsequences](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0115-distinct-subsequences) |
 | [0125-valid-palindrome](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0125-valid-palindrome) |
 | [0139-word-break](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0139-word-break) |
+| [0140-word-break-ii](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0140-word-break-ii) |
 | [0242-valid-anagram](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0242-valid-anagram) |
 | [0657-robot-return-to-origin](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0657-robot-return-to-origin) |
 | [0796-rotate-string](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0796-rotate-string) |
@@ -196,6 +199,7 @@ Consistent DSA practice — solving LeetCode problems daily with clean code, exp
 | [0076-minimum-window-substring](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0076-minimum-window-substring) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0139-word-break](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0139-word-break) |
+| [0140-word-break-ii](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0140-word-break-ii) |
 | [0169-majority-element](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0242-valid-anagram) |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
@@ -316,11 +320,13 @@ Consistent DSA practice — solving LeetCode problems daily with clean code, exp
 | [0093-restore-ip-addresses](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0093-restore-ip-addresses) |
 | [0095-unique-binary-search-trees-ii](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0095-unique-binary-search-trees-ii) |
 | [0113-path-sum-ii](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0113-path-sum-ii) |
+| [0140-word-break-ii](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0140-word-break-ii) |
 ## Trie
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0014-longest-common-prefix) |
 | [0139-word-break](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0139-word-break) |
+| [0140-word-break-ii](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0140-word-break-ii) |
 | [3093-longest-common-suffix-queries](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/3093-longest-common-suffix-queries) |
 ## Tree
 |  |
@@ -370,4 +376,5 @@ Consistent DSA practice — solving LeetCode problems daily with clean code, exp
 |  |
 | ------- |
 | [0139-word-break](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0139-word-break) |
+| [0140-word-break-ii](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0140-word-break-ii) |
 <!---LeetCode Topics End-->
