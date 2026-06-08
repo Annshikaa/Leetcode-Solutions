@@ -98,6 +98,7 @@ Consistent DSA practice — solving LeetCode problems daily with clean code, exp
 | [0044-wildcard-matching](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0044-wildcard-matching) |
 | [0053-maximum-subarray](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0053-maximum-subarray) |
 | [0063-unique-paths-ii](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0063-unique-paths-ii) |
+| [0070-climbing-stairs](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0072-edit-distance) |
 | [0085-maximal-rectangle](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0085-maximal-rectangle) |
 | [0095-unique-binary-search-trees-ii](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0095-unique-binary-search-trees-ii) |
@@ -223,6 +224,7 @@ Consistent DSA practice — solving LeetCode problems daily with clean code, exp
 | [0029-divide-two-integers](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0029-divide-two-integers) |
 | [0043-multiply-strings](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0043-multiply-strings) |
 | [0050-powx-n](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0050-powx-n) |
+| [0070-climbing-stairs](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0189-rotate-array) |
 | [0593-valid-square](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0593-valid-square) |
@@ -377,6 +379,7 @@ Consistent DSA practice — solving LeetCode problems daily with clean code, exp
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0070-climbing-stairs) |
 | [0139-word-break](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0140-word-break-ii) |
 <!---LeetCode Topics End-->
