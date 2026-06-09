@@ -105,6 +105,7 @@ Consistent DSA practice — solving LeetCode problems daily with clean code, exp
 | [0070-climbing-stairs](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0072-edit-distance) |
 | [0085-maximal-rectangle](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0085-maximal-rectangle) |
+| [0087-scramble-string](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0087-scramble-string) |
 | [0095-unique-binary-search-trees-ii](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0095-unique-binary-search-trees-ii) |
 | [0097-interleaving-string](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0097-interleaving-string) |
 | [0115-distinct-subsequences](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0115-distinct-subsequences) |
@@ -148,6 +149,7 @@ Consistent DSA practice — solving LeetCode problems daily with clean code, exp
 | [0071-simplify-path](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0071-simplify-path) |
 | [0072-edit-distance](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0072-edit-distance) |
 | [0076-minimum-window-substring](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0076-minimum-window-substring) |
+| [0087-scramble-string](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0087-scramble-string) |
 | [0093-restore-ip-addresses](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0093-restore-ip-addresses) |
 | [0097-interleaving-string](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0097-interleaving-string) |
 | [0115-distinct-subsequences](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0115-distinct-subsequences) |
