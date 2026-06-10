@@ -29,6 +29,7 @@ Consistent DSA practice — solving LeetCode problems daily with clean code, exp
 | [0073-set-matrix-zeroes](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0078-subsets](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0078-subsets) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0085-maximal-rectangle](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0085-maximal-rectangle) |
 | [0088-merge-sorted-array](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0090-subsets-ii) |
@@ -293,6 +294,7 @@ Consistent DSA practice — solving LeetCode problems daily with clean code, exp
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0035-search-insert-position](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0035-search-insert-position) |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [3161-block-placement-queries](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/3161-block-placement-queries) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 ## Bucket Sort
