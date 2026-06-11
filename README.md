@@ -257,6 +257,7 @@ Consistent DSA practice — solving LeetCode problems daily with clean code, exp
 | [0670-maximum-swap](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0670-maximum-swap) |
 | [0788-rotated-digits](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0788-rotated-digits) |
 | [2514-count-anagrams](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/2514-count-anagrams) |
+| [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3753-total-waviness-of-numbers-in-range-ii](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/3753-total-waviness-of-numbers-in-range-ii) |
 ## Two Pointers
 |  |
@@ -332,6 +333,7 @@ Consistent DSA practice — solving LeetCode problems daily with clean code, exp
 | [0113-path-sum-ii](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0113-path-sum-ii) |
 | [0207-course-schedule](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0207-course-schedule) |
 | [1306-jump-game-iii](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/1306-jump-game-iii) |
+| [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -381,6 +383,7 @@ Consistent DSA practice — solving LeetCode problems daily with clean code, exp
 | [0101-symmetric-tree](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0101-symmetric-tree) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0113-path-sum-ii](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0113-path-sum-ii) |
+| [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 ## Binary Search Tree
 |  |
 | ------- |
