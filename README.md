@@ -27,6 +27,7 @@ Consistent DSA practice — solving LeetCode problems daily with clean code, exp
 | [0063-unique-paths-ii](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0063-unique-paths-ii) |
 | [0068-text-justification](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0068-text-justification) |
 | [0073-set-matrix-zeroes](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0073-set-matrix-zeroes) |
+| [0075-sort-colors](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0078-subsets) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
@@ -84,6 +85,7 @@ Consistent DSA practice — solving LeetCode problems daily with clean code, exp
 | [0018-4sum](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0018-4sum) |
 | [0047-permutations-ii](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0049-group-anagrams) |
+| [0075-sort-colors](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0164-maximum-gap](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0164-maximum-gap) |
 | [0169-majority-element](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0169-majority-element) |
@@ -268,6 +270,7 @@ Consistent DSA practice — solving LeetCode problems daily with clean code, exp
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0042-trapping-rain-water) |
+| [0075-sort-colors](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0086-partition-list](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0086-partition-list) |
