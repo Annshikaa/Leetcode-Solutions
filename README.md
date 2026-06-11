@@ -325,6 +325,7 @@ Consistent DSA practice — solving LeetCode problems daily with clean code, exp
 | [0094-binary-tree-inorder-traversal](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0099-recover-binary-search-tree) |
+| [0100-same-tree](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0101-symmetric-tree) |
 | [0113-path-sum-ii](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0113-path-sum-ii) |
 | [0207-course-schedule](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0207-course-schedule) |
@@ -332,6 +333,7 @@ Consistent DSA practice — solving LeetCode problems daily with clean code, exp
 ## Breadth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0101-symmetric-tree) |
 | [0127-word-ladder](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0127-word-ladder) |
 | [0207-course-schedule](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0207-course-schedule) |
@@ -373,6 +375,7 @@ Consistent DSA practice — solving LeetCode problems daily with clean code, exp
 | [0096-unique-binary-search-trees](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0099-recover-binary-search-tree) |
+| [0100-same-tree](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0101-symmetric-tree) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0113-path-sum-ii](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0113-path-sum-ii) |
@@ -391,6 +394,7 @@ Consistent DSA practice — solving LeetCode problems daily with clean code, exp
 | [0096-unique-binary-search-trees](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0099-recover-binary-search-tree) |
+| [0100-same-tree](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0101-symmetric-tree) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0113-path-sum-ii](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0113-path-sum-ii) |
