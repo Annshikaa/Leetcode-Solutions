@@ -51,6 +51,7 @@ Consistent DSA practice — solving LeetCode problems daily with clean code, exp
 | [0189-rotate-array](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0198-house-robber) |
 | [0212-word-search-ii](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0212-word-search-ii) |
+| [0274-h-index](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0274-h-index) |
 | [1306-jump-game-iii](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/1306-jump-game-iii) |
 | [1340-jump-game-v](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/1340-jump-game-v) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
@@ -92,6 +93,7 @@ Consistent DSA practice — solving LeetCode problems daily with clean code, exp
 | [0164-maximum-gap](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0164-maximum-gap) |
 | [0169-majority-element](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0242-valid-anagram) |
+| [0274-h-index](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0274-h-index) |
 | [1340-jump-game-v](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/1340-jump-game-v) |
 | [2126-destroying-asteroids](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/2126-destroying-asteroids) |
 | [2751-robot-collisions](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/2751-robot-collisions) |
@@ -441,4 +443,8 @@ Consistent DSA practice — solving LeetCode problems daily with clean code, exp
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0207-course-schedule) |
+## Counting Sort
+|  |
+| ------- |
+| [0274-h-index](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0274-h-index) |
 <!---LeetCode Topics End-->
