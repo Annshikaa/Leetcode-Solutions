@@ -57,6 +57,7 @@ Consistent DSA practice — solving LeetCode problems daily with clean code, exp
 | [0274-h-index](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0274-h-index) |
 | [1306-jump-game-iii](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/1306-jump-game-iii) |
 | [1340-jump-game-v](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/1340-jump-game-v) |
+| [1345-jump-game-iv](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/1345-jump-game-iv) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1861-rotating-the-box](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/1861-rotating-the-box) |
 | [2126-destroying-asteroids](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/2126-destroying-asteroids) |
@@ -245,6 +246,7 @@ Consistent DSA practice — solving LeetCode problems daily with clean code, exp
 | [0140-word-break-ii](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0140-word-break-ii) |
 | [0169-majority-element](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0242-valid-anagram) |
+| [1345-jump-game-iv](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/1345-jump-game-iv) |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [2514-count-anagrams](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/2514-count-anagrams) |
 | [2784-check-if-array-is-good](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/2784-check-if-array-is-good) |
@@ -366,6 +368,7 @@ Consistent DSA practice — solving LeetCode problems daily with clean code, exp
 | [0127-word-ladder](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0127-word-ladder) |
 | [0207-course-schedule](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0207-course-schedule) |
 | [1306-jump-game-iii](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/1306-jump-game-iii) |
+| [1345-jump-game-iv](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/1345-jump-game-iv) |
 ## Bit Manipulation
 |  |
 | ------- |
