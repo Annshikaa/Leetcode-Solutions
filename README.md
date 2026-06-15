@@ -125,6 +125,7 @@ Consistent DSA practice — solving LeetCode problems daily with clean code, exp
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0044-wildcard-matching](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0044-wildcard-matching) |
 | [0053-maximum-subarray](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0053-maximum-subarray) |
@@ -173,6 +174,7 @@ Consistent DSA practice — solving LeetCode problems daily with clean code, exp
 | [0013-roman-to-integer](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0022-generate-parentheses) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0043-multiply-strings](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0043-multiply-strings) |
 | [0044-wildcard-matching](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0044-wildcard-matching) |
@@ -409,6 +411,7 @@ Consistent DSA practice — solving LeetCode problems daily with clean code, exp
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0022-generate-parentheses) |
 | [0040-combination-sum-ii](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0047-permutations-ii) |
