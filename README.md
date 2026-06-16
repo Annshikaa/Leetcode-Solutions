@@ -14,6 +14,7 @@ Consistent DSA practice — solving LeetCode problems daily with clean code, exp
 | [0018-4sum](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0031-next-permutation) |
+| [0033-search-in-rotated-sorted-array](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0035-search-insert-position) |
 | [0036-valid-sudoku](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0036-valid-sudoku) |
 | [0040-combination-sum-ii](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0040-combination-sum-ii) |
@@ -357,6 +358,7 @@ Consistent DSA practice — solving LeetCode problems daily with clean code, exp
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0004-median-of-two-sorted-arrays) |
+| [0033-search-in-rotated-sorted-array](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0035-search-insert-position) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
