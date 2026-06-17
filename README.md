@@ -209,6 +209,7 @@ Consistent DSA practice — solving LeetCode problems daily with clean code, exp
 | [0127-word-ladder](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0127-word-ladder) |
 | [0139-word-break](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0140-word-break-ii) |
+| [0171-excel-sheet-column-number](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0171-excel-sheet-column-number) |
 | [0212-word-search-ii](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0212-word-search-ii) |
 | [0242-valid-anagram](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0242-valid-anagram) |
 | [0657-robot-return-to-origin](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0657-robot-return-to-origin) |
@@ -318,6 +319,7 @@ Consistent DSA practice — solving LeetCode problems daily with clean code, exp
 | [0070-climbing-stairs](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0070-climbing-stairs) |
 | [0096-unique-binary-search-trees](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0096-unique-binary-search-trees) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0171-excel-sheet-column-number](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0171-excel-sheet-column-number) |
 | [0189-rotate-array](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0189-rotate-array) |
 | [0593-valid-square](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0593-valid-square) |
 | [0670-maximum-swap](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0670-maximum-swap) |
