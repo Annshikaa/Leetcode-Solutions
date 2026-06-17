@@ -126,6 +126,7 @@ Consistent DSA practice — solving LeetCode problems daily with clean code, exp
 | ------- |
 | [0043-multiply-strings](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0043-multiply-strings) |
 | [0054-spiral-matrix](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0054-spiral-matrix) |
+| [0067-add-binary](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0067-add-binary) |
 | [0068-text-justification](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0068-text-justification) |
 | [0657-robot-return-to-origin](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0657-robot-return-to-origin) |
 | [1914-cyclically-rotating-a-grid](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/1914-cyclically-rotating-a-grid) |
@@ -195,6 +196,7 @@ Consistent DSA practice — solving LeetCode problems daily with clean code, exp
 | [0049-group-anagrams](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0058-length-of-last-word) |
 | [0065-valid-number](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0065-valid-number) |
+| [0067-add-binary](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0067-add-binary) |
 | [0068-text-justification](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0068-text-justification) |
 | [0071-simplify-path](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0071-simplify-path) |
 | [0072-edit-distance](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0072-edit-distance) |
@@ -312,6 +314,7 @@ Consistent DSA practice — solving LeetCode problems daily with clean code, exp
 | [0050-powx-n](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0050-powx-n) |
 | [0060-permutation-sequence](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0060-permutation-sequence) |
 | [0066-plus-one](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0070-climbing-stairs) |
 | [0096-unique-binary-search-trees](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0096-unique-binary-search-trees) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -431,6 +434,7 @@ Consistent DSA practice — solving LeetCode problems daily with clean code, exp
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0029-divide-two-integers) |
+| [0067-add-binary](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0136-single-number) |
