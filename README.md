@@ -80,6 +80,7 @@ Consistent DSA practice — solving LeetCode problems daily with clean code, exp
 | [3161-block-placement-queries](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/3161-block-placement-queries) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
+| [3464-maximize-the-distance-between-points-on-a-square](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
@@ -121,6 +122,7 @@ Consistent DSA practice — solving LeetCode problems daily with clean code, exp
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2751-robot-collisions](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/2751-robot-collisions) |
 | [2784-check-if-array-is-good](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/2784-check-if-array-is-good) |
+| [3464-maximize-the-distance-between-points-on-a-square](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 ## Simulation
@@ -331,6 +333,7 @@ Consistent DSA practice — solving LeetCode problems daily with clean code, exp
 | [1344-angle-between-hands-of-a-clock](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/1344-angle-between-hands-of-a-clock) |
 | [2514-count-anagrams](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/2514-count-anagrams) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
+| [3464-maximize-the-distance-between-points-on-a-square](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
@@ -374,6 +377,7 @@ Consistent DSA practice — solving LeetCode problems daily with clean code, exp
 |  |
 | ------- |
 | [0593-valid-square](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0593-valid-square) |
+| [3464-maximize-the-distance-between-points-on-a-square](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 ## Counting
 |  |
 | ------- |
@@ -390,6 +394,7 @@ Consistent DSA practice — solving LeetCode problems daily with clean code, exp
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [2540-minimum-common-value](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/2540-minimum-common-value) |
 | [3161-block-placement-queries](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/3161-block-placement-queries) |
+| [3464-maximize-the-distance-between-points-on-a-square](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 ## Bucket Sort
