@@ -93,6 +93,7 @@ Consistent DSA practice — solving LeetCode problems daily with clean code, exp
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3660-jump-game-ix](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/3660-jump-game-ix) |
+| [3661-maximum-walls-destroyed-by-robots](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/3661-maximum-walls-destroyed-by-robots) |
 | [3689-maximum-total-subarray-value-i](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/3689-maximum-total-subarray-value-i) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/3691-maximum-total-subarray-value-ii) |
 | [3838-weighted-word-mapping](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/3838-weighted-word-mapping) |
@@ -135,6 +136,7 @@ Consistent DSA practice — solving LeetCode problems daily with clean code, exp
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
+| [3661-maximum-walls-destroyed-by-robots](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/3661-maximum-walls-destroyed-by-robots) |
 ## Simulation
 |  |
 | ------- |
@@ -185,6 +187,7 @@ Consistent DSA practice — solving LeetCode problems daily with clean code, exp
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3660-jump-game-ix](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/3660-jump-game-ix) |
+| [3661-maximum-walls-destroyed-by-robots](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/3661-maximum-walls-destroyed-by-robots) |
 | [3753-total-waviness-of-numbers-in-range-ii](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/3753-total-waviness-of-numbers-in-range-ii) |
 ## Matrix
 |  |
@@ -423,6 +426,7 @@ Consistent DSA practice — solving LeetCode problems daily with clean code, exp
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
+| [3661-maximum-walls-destroyed-by-robots](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/3661-maximum-walls-destroyed-by-robots) |
 ## Bucket Sort
 |  |
 | ------- |
