@@ -59,6 +59,7 @@ Consistent DSA practice — solving LeetCode problems daily with clean code, exp
 | [0198-house-robber](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0198-house-robber) |
 | [0212-word-search-ii](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0212-word-search-ii) |
 | [0274-h-index](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0274-h-index) |
+| [0874-walking-robot-simulation](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0874-walking-robot-simulation) |
 | [1306-jump-game-iii](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/1306-jump-game-iii) |
 | [1340-jump-game-v](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/1340-jump-game-v) |
 | [1345-jump-game-iv](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/1345-jump-game-iv) |
@@ -142,6 +143,7 @@ Consistent DSA practice — solving LeetCode problems daily with clean code, exp
 | [0067-add-binary](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0067-add-binary) |
 | [0068-text-justification](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0068-text-justification) |
 | [0657-robot-return-to-origin](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0657-robot-return-to-origin) |
+| [0874-walking-robot-simulation](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0874-walking-robot-simulation) |
 | [1914-cyclically-rotating-a-grid](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/1914-cyclically-rotating-a-grid) |
 | [2069-walking-robot-simulation-ii](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/2069-walking-robot-simulation-ii) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/2161-partition-array-according-to-given-pivot) |
@@ -308,6 +310,7 @@ Consistent DSA practice — solving LeetCode problems daily with clean code, exp
 | [0160-intersection-of-two-linked-lists](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0242-valid-anagram) |
+| [0874-walking-robot-simulation](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0874-walking-robot-simulation) |
 | [1345-jump-game-iv](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/1345-jump-game-iv) |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/1674-minimum-moves-to-make-array-complementary) |
