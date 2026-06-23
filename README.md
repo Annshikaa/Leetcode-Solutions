@@ -189,6 +189,7 @@ Consistent DSA practice — solving LeetCode problems daily with clean code, exp
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3660-jump-game-ix](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/3660-jump-game-ix) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/3661-maximum-walls-destroyed-by-robots) |
+| [3699-number-of-zigzag-arrays-i](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/3699-number-of-zigzag-arrays-i) |
 | [3753-total-waviness-of-numbers-in-range-ii](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/3753-total-waviness-of-numbers-in-range-ii) |
 ## Matrix
 |  |
@@ -563,6 +564,7 @@ Consistent DSA practice — solving LeetCode problems daily with clean code, exp
 | [1732-find-the-highest-altitude](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/1732-find-the-highest-altitude) |
 | [1871-jump-game-vii](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/1871-jump-game-vii) |
 | [2574-left-and-right-sum-differences](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/2574-left-and-right-sum-differences) |
+| [3699-number-of-zigzag-arrays-i](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/3699-number-of-zigzag-arrays-i) |
 ## Monotonic Stack
 |  |
 | ------- |
