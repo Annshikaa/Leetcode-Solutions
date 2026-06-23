@@ -63,6 +63,7 @@ Consistent DSA practice — solving LeetCode problems daily with clean code, exp
 | [1306-jump-game-iii](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/1306-jump-game-iii) |
 | [1340-jump-game-v](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/1340-jump-game-v) |
 | [1345-jump-game-iv](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/1345-jump-game-iv) |
+| [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
@@ -205,6 +206,7 @@ Consistent DSA practice — solving LeetCode problems daily with clean code, exp
 | [0073-set-matrix-zeroes](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0085-maximal-rectangle](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0085-maximal-rectangle) |
 | [0212-word-search-ii](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0212-word-search-ii) |
+| [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1861-rotating-the-box](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/1861-rotating-the-box) |
@@ -475,6 +477,7 @@ Consistent DSA practice — solving LeetCode problems daily with clean code, exp
 | [0133-clone-graph](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0133-clone-graph) |
 | [0207-course-schedule](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0207-course-schedule) |
 | [1306-jump-game-iii](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/1306-jump-game-iii) |
+| [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/1559-detect-cycles-in-2d-grid) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
@@ -490,6 +493,7 @@ Consistent DSA practice — solving LeetCode problems daily with clean code, exp
 | [0207-course-schedule](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0207-course-schedule) |
 | [1306-jump-game-iii](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/1306-jump-game-iii) |
 | [1345-jump-game-iv](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/1345-jump-game-iv) |
+| [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/1559-detect-cycles-in-2d-grid) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 ## Bit Manipulation
@@ -621,5 +625,6 @@ Consistent DSA practice — solving LeetCode problems daily with clean code, exp
 ## Union-Find
 |  |
 | ------- |
+| [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/1559-detect-cycles-in-2d-grid) |
 <!---LeetCode Topics End-->
