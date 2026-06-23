@@ -85,6 +85,7 @@ Consistent DSA practice — solving LeetCode problems daily with clean code, exp
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3093-longest-common-suffix-queries](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/3093-longest-common-suffix-queries) |
 | [3161-block-placement-queries](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/3161-block-placement-queries) |
+| [3225-maximum-score-from-grid-operations](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/3225-maximum-score-from-grid-operations) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
@@ -186,6 +187,7 @@ Consistent DSA practice — solving LeetCode problems daily with clean code, exp
 | [1340-jump-game-v](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/1340-jump-game-v) |
 | [1871-jump-game-vii](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/1871-jump-game-vii) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
+| [3225-maximum-score-from-grid-operations](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/3225-maximum-score-from-grid-operations) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3660-jump-game-ix](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/3660-jump-game-ix) |
@@ -205,6 +207,7 @@ Consistent DSA practice — solving LeetCode problems daily with clean code, exp
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1861-rotating-the-box](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/1861-rotating-the-box) |
 | [1914-cyclically-rotating-a-grid](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/1914-cyclically-rotating-a-grid) |
+| [3225-maximum-score-from-grid-operations](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/3225-maximum-score-from-grid-operations) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3742-maximum-path-score-in-a-grid](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/3742-maximum-path-score-in-a-grid) |
 ## String
@@ -567,6 +570,7 @@ Consistent DSA practice — solving LeetCode problems daily with clean code, exp
 | [1732-find-the-highest-altitude](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/1732-find-the-highest-altitude) |
 | [1871-jump-game-vii](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/1871-jump-game-vii) |
 | [2574-left-and-right-sum-differences](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/2574-left-and-right-sum-differences) |
+| [3225-maximum-score-from-grid-operations](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/3225-maximum-score-from-grid-operations) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/3699-number-of-zigzag-arrays-i) |
 ## Monotonic Stack
 |  |
