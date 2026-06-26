@@ -73,6 +73,7 @@ Consistent DSA practice — solving LeetCode problems daily with clean code, exp
 | [1732-find-the-highest-altitude](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/1732-find-the-highest-altitude) |
 | [1833-maximum-ice-cream-bars](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/1833-maximum-ice-cream-bars) |
 | [1840-maximum-building-height](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/1840-maximum-building-height) |
+| [1848-minimum-distance-to-the-target-element](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1861-rotating-the-box](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/1861-rotating-the-box) |
 | [1914-cyclically-rotating-a-grid](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/1914-cyclically-rotating-a-grid) |
 | [2126-destroying-asteroids](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/2126-destroying-asteroids) |
