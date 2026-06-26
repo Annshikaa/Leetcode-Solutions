@@ -194,6 +194,7 @@ Consistent DSA practice — solving LeetCode problems daily with clean code, exp
 | [0198-house-robber](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0198-house-robber) |
 | [0788-rotated-digits](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0788-rotated-digits) |
 | [0799-champagne-tower](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0799-champagne-tower) |
+| [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 | [1340-jump-game-v](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/1340-jump-game-v) |
 | [1871-jump-game-vii](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/1871-jump-game-vii) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
@@ -262,6 +263,7 @@ Consistent DSA practice — solving LeetCode problems daily with clean code, exp
 | [0796-rotate-string](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0796-rotate-string) |
 | [1156-swap-for-longest-repeated-character-substring](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/1156-swap-for-longest-repeated-character-substring) |
 | [1189-maximum-number-of-balloons](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/1189-maximum-number-of-balloons) |
+| [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1871-jump-game-vii](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/1871-jump-game-vii) |
 | [2075-decode-the-slanted-ciphertext](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/2075-decode-the-slanted-ciphertext) |
