@@ -412,6 +412,7 @@ Consistent DSA practice — solving LeetCode problems daily with clean code, exp
 | [0166-fraction-to-recurring-decimal](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0166-fraction-to-recurring-decimal) |
 | [0171-excel-sheet-column-number](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0171-excel-sheet-column-number) |
 | [0189-rotate-array](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0189-rotate-array) |
+| [0319-bulb-switcher](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0319-bulb-switcher) |
 | [0335-self-crossing](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0335-self-crossing) |
 | [0593-valid-square](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0593-valid-square) |
 | [0670-maximum-swap](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0670-maximum-swap) |
@@ -689,4 +690,8 @@ Consistent DSA practice — solving LeetCode problems daily with clean code, exp
 |  |
 | ------- |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
+## Brainteaser
+|  |
+| ------- |
+| [0319-bulb-switcher](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0319-bulb-switcher) |
 <!---LeetCode Topics End-->
