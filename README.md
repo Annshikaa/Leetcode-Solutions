@@ -31,6 +31,7 @@ Consistent DSA practice — solving LeetCode problems daily with clean code, exp
 | [0066-plus-one](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0066-plus-one) |
 | [0068-text-justification](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0068-text-justification) |
 | [0073-set-matrix-zeroes](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0073-set-matrix-zeroes) |
+| [0074-search-a-2d-matrix](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0078-subsets) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -219,6 +220,7 @@ Consistent DSA practice — solving LeetCode problems daily with clean code, exp
 | [0054-spiral-matrix](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0054-spiral-matrix) |
 | [0063-unique-paths-ii](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0063-unique-paths-ii) |
 | [0073-set-matrix-zeroes](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0073-set-matrix-zeroes) |
+| [0074-search-a-2d-matrix](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0074-search-a-2d-matrix) |
 | [0085-maximal-rectangle](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0085-maximal-rectangle) |
 | [0212-word-search-ii](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0212-word-search-ii) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
@@ -483,6 +485,7 @@ Consistent DSA practice — solving LeetCode problems daily with clean code, exp
 | [0004-median-of-two-sorted-arrays](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0035-search-insert-position) |
+| [0074-search-a-2d-matrix](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0074-search-a-2d-matrix) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
