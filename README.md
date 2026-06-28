@@ -75,6 +75,7 @@ Consistent DSA practice — solving LeetCode problems daily with clean code, exp
 | [1732-find-the-highest-altitude](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/1732-find-the-highest-altitude) |
 | [1833-maximum-ice-cream-bars](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/1833-maximum-ice-cream-bars) |
 | [1840-maximum-building-height](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/1840-maximum-building-height) |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1861-rotating-the-box](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/1861-rotating-the-box) |
 | [1914-cyclically-rotating-a-grid](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/1914-cyclically-rotating-a-grid) |
@@ -145,6 +146,7 @@ Consistent DSA practice — solving LeetCode problems daily with clean code, exp
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1833-maximum-ice-cream-bars](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/1833-maximum-ice-cream-bars) |
 | [1840-maximum-building-height](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/1840-maximum-building-height) |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2126-destroying-asteroids](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2463-minimum-total-distance-traveled](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/2463-minimum-total-distance-traveled) |
@@ -296,6 +298,7 @@ Consistent DSA practice — solving LeetCode problems daily with clean code, exp
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1833-maximum-ice-cream-bars](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/1833-maximum-ice-cream-bars) |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2126-destroying-asteroids](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
