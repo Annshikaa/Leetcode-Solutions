@@ -429,6 +429,7 @@ Consistent DSA practice — solving LeetCode problems daily with clean code, exp
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0788-rotated-digits](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0788-rotated-digits) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/1344-angle-between-hands-of-a-clock) |
+| [1622-fancy-sequence](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/1622-fancy-sequence) |
 | [1840-maximum-building-height](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/1840-maximum-building-height) |
 | [2514-count-anagrams](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/2514-count-anagrams) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
@@ -478,6 +479,7 @@ Consistent DSA practice — solving LeetCode problems daily with clean code, exp
 | ------- |
 | [0146-lru-cache](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0155-min-stack) |
+| [1622-fancy-sequence](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/1622-fancy-sequence) |
 | [2069-walking-robot-simulation-ii](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/2069-walking-robot-simulation-ii) |
 ## Geometry
 |  |
@@ -662,6 +664,7 @@ Consistent DSA practice — solving LeetCode problems daily with clean code, exp
 ## Segment Tree
 |  |
 | ------- |
+| [1622-fancy-sequence](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/1622-fancy-sequence) |
 | [3161-block-placement-queries](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/3161-block-placement-queries) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/3691-maximum-total-subarray-value-ii) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -689,6 +692,7 @@ Consistent DSA practice — solving LeetCode problems daily with clean code, exp
 ## Number Theory
 |  |
 | ------- |
+| [1622-fancy-sequence](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/1622-fancy-sequence) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 ## Doubly-Linked List
 |  |
