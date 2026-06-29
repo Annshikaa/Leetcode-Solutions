@@ -80,6 +80,7 @@ Consistent DSA practice — solving LeetCode problems daily with clean code, exp
 | [1848-minimum-distance-to-the-target-element](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1861-rotating-the-box](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/1861-rotating-the-box) |
 | [1914-cyclically-rotating-a-grid](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/1914-cyclically-rotating-a-grid) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2126-destroying-asteroids](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/2161-partition-array-according-to-given-pivot) |
@@ -282,6 +283,7 @@ Consistent DSA practice — solving LeetCode problems daily with clean code, exp
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1871-jump-game-vii](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/1871-jump-game-vii) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2075-decode-the-slanted-ciphertext](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/2075-decode-the-slanted-ciphertext) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2514-count-anagrams](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/2514-count-anagrams) |
