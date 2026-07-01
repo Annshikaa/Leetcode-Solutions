@@ -296,6 +296,7 @@ Consistent DSA practice — solving LeetCode problems daily with clean code, exp
 | [3093-longest-common-suffix-queries](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/3093-longest-common-suffix-queries) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/3121-count-the-number-of-special-characters-ii) |
+| [3474-lexicographically-smallest-generated-string](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/3474-lexicographically-smallest-generated-string) |
 | [3612-process-string-with-special-operations-i](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/3612-process-string-with-special-operations-i) |
 | [3614-process-string-with-special-operations-ii](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/3614-process-string-with-special-operations-ii) |
 | [3838-weighted-word-mapping](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/3838-weighted-word-mapping) |
@@ -313,6 +314,7 @@ Consistent DSA practice — solving LeetCode problems daily with clean code, exp
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2126-destroying-asteroids](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
+| [3474-lexicographically-smallest-generated-string](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/3474-lexicographically-smallest-generated-string) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3689-maximum-total-subarray-value-i](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/3689-maximum-total-subarray-value-i) |
@@ -541,6 +543,7 @@ Consistent DSA practice — solving LeetCode problems daily with clean code, exp
 |  |
 | ------- |
 | [0796-rotate-string](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0796-rotate-string) |
+| [3474-lexicographically-smallest-generated-string](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/3474-lexicographically-smallest-generated-string) |
 ## Depth-First Search
 |  |
 | ------- |
