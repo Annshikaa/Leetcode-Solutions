@@ -107,6 +107,7 @@ Consistent DSA practice — solving LeetCode problems daily with clean code, exp
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
+| [3620-network-recovery-pathways](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/3620-network-recovery-pathways) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
@@ -219,6 +220,7 @@ Consistent DSA practice — solving LeetCode problems daily with clean code, exp
 | [3225-maximum-score-from-grid-operations](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/3225-maximum-score-from-grid-operations) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
+| [3620-network-recovery-pathways](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/3620-network-recovery-pathways) |
 | [3660-jump-game-ix](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/3660-jump-game-ix) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/3661-maximum-walls-destroyed-by-robots) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/3699-number-of-zigzag-arrays-i) |
@@ -355,6 +357,7 @@ Consistent DSA practice — solving LeetCode problems daily with clean code, exp
 | [0023-merge-k-sorted-lists](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0023-merge-k-sorted-lists) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3620-network-recovery-pathways](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/3620-network-recovery-pathways) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/3691-maximum-total-subarray-value-ii) |
 ## Merge Sort
 |  |
@@ -528,6 +531,7 @@ Consistent DSA practice — solving LeetCode problems daily with clean code, exp
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3161-block-placement-queries](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/3161-block-placement-queries) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
+| [3620-network-recovery-pathways](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/3620-network-recovery-pathways) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/3661-maximum-walls-destroyed-by-robots) |
@@ -704,10 +708,12 @@ Consistent DSA practice — solving LeetCode problems daily with clean code, exp
 | [0133-clone-graph](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0133-clone-graph) |
 | [0207-course-schedule](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0207-course-schedule) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3620-network-recovery-pathways](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/3620-network-recovery-pathways) |
 ## Topological Sort
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0207-course-schedule) |
+| [3620-network-recovery-pathways](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/3620-network-recovery-pathways) |
 ## Counting Sort
 |  |
 | ------- |
@@ -741,4 +747,5 @@ Consistent DSA practice — solving LeetCode problems daily with clean code, exp
 |  |
 | ------- |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3620-network-recovery-pathways](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/3620-network-recovery-pathways) |
 <!---LeetCode Topics End-->
