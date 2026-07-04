@@ -45,6 +45,7 @@ Consistent DSA practice — solving LeetCode problems daily with clean code, exp
 | [0120-triangle](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
+| [0134-gas-station](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0135-candy) |
 | [0136-single-number](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0137-single-number-ii) |
@@ -311,6 +312,7 @@ Consistent DSA practice — solving LeetCode problems daily with clean code, exp
 | ------- |
 | [0044-wildcard-matching](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0044-wildcard-matching) |
 | [0055-jump-game](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0055-jump-game) |
+| [0134-gas-station](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0135-candy) |
 | [0179-largest-number](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0179-largest-number) |
 | [0670-maximum-swap](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0670-maximum-swap) |
