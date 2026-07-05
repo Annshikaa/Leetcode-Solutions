@@ -121,6 +121,7 @@ Consistent DSA practice — solving LeetCode problems daily with clean code, exp
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/3661-maximum-walls-destroyed-by-robots) |
 | [3689-maximum-total-subarray-value-i](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/3689-maximum-total-subarray-value-i) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/3691-maximum-total-subarray-value-ii) |
+| [3719-longest-balanced-subarray-i](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/3719-longest-balanced-subarray-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/3739-count-subarrays-with-majority-element-ii) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
@@ -361,6 +362,7 @@ Consistent DSA practice — solving LeetCode problems daily with clean code, exp
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0169-majority-element](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0169-majority-element) |
 | [1382-balance-a-binary-search-tree](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/1382-balance-a-binary-search-tree) |
+| [3719-longest-balanced-subarray-i](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/3719-longest-balanced-subarray-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Heap (Priority Queue)
@@ -422,6 +424,7 @@ Consistent DSA practice — solving LeetCode problems daily with clean code, exp
 | [3121-count-the-number-of-special-characters-ii](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3488-closest-equal-element-queries](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/3488-closest-equal-element-queries) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
+| [3719-longest-balanced-subarray-i](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/3719-longest-balanced-subarray-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/3739-count-subarrays-with-majority-element-ii) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
@@ -697,6 +700,7 @@ Consistent DSA practice — solving LeetCode problems daily with clean code, exp
 | [2906-construct-product-matrix](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/2906-construct-product-matrix) |
 | [3225-maximum-score-from-grid-operations](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/3225-maximum-score-from-grid-operations) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/3699-number-of-zigzag-arrays-i) |
+| [3719-longest-balanced-subarray-i](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/3719-longest-balanced-subarray-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Monotonic Stack
@@ -714,6 +718,7 @@ Consistent DSA practice — solving LeetCode problems daily with clean code, exp
 | [1622-fancy-sequence](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/1622-fancy-sequence) |
 | [3161-block-placement-queries](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/3161-block-placement-queries) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/3691-maximum-total-subarray-value-ii) |
+| [3719-longest-balanced-subarray-i](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/3719-longest-balanced-subarray-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Memoization
