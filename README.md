@@ -83,6 +83,7 @@ Consistent DSA practice — solving LeetCode problems daily with clean code, exp
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
+| [1727-largest-submatrix-with-rearrangements](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1732-find-the-highest-altitude](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/1732-find-the-highest-altitude) |
 | [1833-maximum-ice-cream-bars](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/1833-maximum-ice-cream-bars) |
 | [1840-maximum-building-height](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/1840-maximum-building-height) |
@@ -165,6 +166,7 @@ Consistent DSA practice — solving LeetCode problems daily with clean code, exp
 | [1288-remove-covered-intervals](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/1288-remove-covered-intervals) |
 | [1340-jump-game-v](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/1340-jump-game-v) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
+| [1727-largest-submatrix-with-rearrangements](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1833-maximum-ice-cream-bars](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/1833-maximum-ice-cream-bars) |
 | [1840-maximum-building-height](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/1840-maximum-building-height) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
@@ -263,6 +265,7 @@ Consistent DSA practice — solving LeetCode problems daily with clean code, exp
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/1582-special-positions-in-a-binary-matrix) |
+| [1727-largest-submatrix-with-rearrangements](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1861-rotating-the-box](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/1861-rotating-the-box) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1914-cyclically-rotating-a-grid](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/1914-cyclically-rotating-a-grid) |
@@ -345,6 +348,7 @@ Consistent DSA practice — solving LeetCode problems daily with clean code, exp
 | [1382-balance-a-binary-search-tree](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/1382-balance-a-binary-search-tree) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
+| [1727-largest-submatrix-with-rearrangements](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1833-maximum-ice-cream-bars](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/1833-maximum-ice-cream-bars) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2126-destroying-asteroids](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/2126-destroying-asteroids) |
