@@ -674,6 +674,7 @@ Consistent DSA practice — solving LeetCode problems daily with clean code, exp
 | [0136-single-number](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0137-single-number-ii) |
 | [0401-binary-watch](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0401-binary-watch) |
+| [0693-binary-number-with-alternating-bits](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0693-binary-number-with-alternating-bits) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 ## Backtracking
