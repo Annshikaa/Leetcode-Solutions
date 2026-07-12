@@ -508,6 +508,7 @@ Consistent DSA practice — solving LeetCode problems daily with clean code, exp
 | [0060-permutation-sequence](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0060-permutation-sequence) |
 | [0066-plus-one](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0067-add-binary) |
+| [0069-sqrtx](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0070-climbing-stairs) |
 | [0096-unique-binary-search-trees](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0096-unique-binary-search-trees) |
 | [0149-max-points-on-a-line](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0149-max-points-on-a-line) |
@@ -605,6 +606,7 @@ Consistent DSA practice — solving LeetCode problems daily with clean code, exp
 | [0004-median-of-two-sorted-arrays](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0069-sqrtx) |
 | [0074-search-a-2d-matrix](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0074-search-a-2d-matrix) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
