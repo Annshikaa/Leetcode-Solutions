@@ -335,6 +335,7 @@ Consistent DSA practice — solving LeetCode problems daily with clean code, exp
 | [0242-valid-anagram](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0242-valid-anagram) |
 | [0282-expression-add-operators](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0282-expression-add-operators) |
 | [0657-robot-return-to-origin](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0657-robot-return-to-origin) |
+| [0696-count-binary-substrings](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0696-count-binary-substrings) |
 | [0796-rotate-string](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0796-rotate-string) |
 | [1156-swap-for-longest-repeated-character-substring](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/1156-swap-for-longest-repeated-character-substring) |
 | [1189-maximum-number-of-balloons](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/1189-maximum-number-of-balloons) |
@@ -571,6 +572,7 @@ Consistent DSA practice — solving LeetCode problems daily with clean code, exp
 | [0165-compare-version-numbers](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0165-compare-version-numbers) |
 | [0189-rotate-array](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0283-move-zeroes) |
+| [0696-count-binary-substrings](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0696-count-binary-substrings) |
 | [1861-rotating-the-box](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/1861-rotating-the-box) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
