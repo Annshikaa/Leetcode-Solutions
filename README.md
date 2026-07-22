@@ -905,4 +905,8 @@ Consistent DSA practice — solving LeetCode problems daily with clean code, exp
 | ------- |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3620-network-recovery-pathways](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/3620-network-recovery-pathways) |
+## Database
+|  |
+| ------- |
+| [0180-consecutive-numbers](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0180-consecutive-numbers) |
 <!---LeetCode Topics End-->
