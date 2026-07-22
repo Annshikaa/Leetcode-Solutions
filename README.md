@@ -61,6 +61,7 @@ Consistent DSA practice — solving LeetCode problems daily with clean code, exp
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0162-find-peak-element) |
 | [0164-maximum-gap](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0164-maximum-gap) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0179-largest-number) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
@@ -573,6 +574,7 @@ Consistent DSA practice — solving LeetCode problems daily with clean code, exp
 | [0151-reverse-words-in-a-string](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0165-compare-version-numbers](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0165-compare-version-numbers) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0283-move-zeroes) |
 | [0696-count-binary-substrings](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0696-count-binary-substrings) |
@@ -629,6 +631,7 @@ Consistent DSA practice — solving LeetCode problems daily with clean code, exp
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0162-find-peak-element) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [2540-minimum-common-value](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/2540-minimum-common-value) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3161-block-placement-queries](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/3161-block-placement-queries) |
