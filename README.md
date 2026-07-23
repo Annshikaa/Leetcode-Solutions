@@ -136,6 +136,7 @@ Consistent DSA practice — solving LeetCode problems daily with clean code, exp
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3637-trionic-array-i](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/3637-trionic-array-i) |
+| [3643-flip-square-submatrix-vertically](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/3643-flip-square-submatrix-vertically) |
 | [3660-jump-game-ix](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/3660-jump-game-ix) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/3661-maximum-walls-destroyed-by-robots) |
 | [3689-maximum-total-subarray-value-i](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/3689-maximum-total-subarray-value-i) |
@@ -299,6 +300,7 @@ Consistent DSA practice — solving LeetCode problems daily with clean code, exp
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3546-equal-sum-grid-partition-i](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/3546-equal-sum-grid-partition-i) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/3548-equal-sum-grid-partition-ii) |
+| [3643-flip-square-submatrix-vertically](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/3643-flip-square-submatrix-vertically) |
 | [3742-maximum-path-score-in-a-grid](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/3742-maximum-path-score-in-a-grid) |
 ## String
 |  |
@@ -590,6 +592,7 @@ Consistent DSA practice — solving LeetCode problems daily with clean code, exp
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
+| [3643-flip-square-submatrix-vertically](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/3643-flip-square-submatrix-vertically) |
 ## Recursion
 |  |
 | ------- |
