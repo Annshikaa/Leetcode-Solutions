@@ -125,6 +125,7 @@ Consistent DSA practice — solving LeetCode problems daily with clean code, exp
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3488-closest-equal-element-queries](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/3488-closest-equal-element-queries) |
+| [3513-number-of-unique-xor-triplets-i](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3546-equal-sum-grid-partition-i](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/3546-equal-sum-grid-partition-i) |
@@ -546,6 +547,7 @@ Consistent DSA practice — solving LeetCode problems daily with clean code, exp
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
+| [3513-number-of-unique-xor-triplets-i](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
@@ -722,6 +724,7 @@ Consistent DSA practice — solving LeetCode problems daily with clean code, exp
 | [0693-binary-number-with-alternating-bits](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0693-binary-number-with-alternating-bits) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
+| [3513-number-of-unique-xor-triplets-i](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 ## Backtracking
