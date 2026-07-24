@@ -369,6 +369,7 @@ Consistent DSA practice — solving LeetCode problems daily with clean code, exp
 | [3499-maximize-active-section-with-trade-i](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3612-process-string-with-special-operations-i](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/3612-process-string-with-special-operations-i) |
 | [3614-process-string-with-special-operations-ii](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/3614-process-string-with-special-operations-ii) |
+| [3666-minimum-operations-to-equalize-binary-string](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 | [3713-longest-balanced-substring-i](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/3713-longest-balanced-substring-i) |
 | [3714-longest-balanced-substring-ii](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/3714-longest-balanced-substring-ii) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
@@ -556,6 +557,7 @@ Consistent DSA practice — solving LeetCode problems daily with clean code, exp
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
+| [3666-minimum-operations-to-equalize-binary-string](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/3700-number-of-zigzag-arrays-ii) |
 | [3753-total-waviness-of-numbers-in-range-ii](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/3753-total-waviness-of-numbers-in-range-ii) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
@@ -716,6 +718,7 @@ Consistent DSA practice — solving LeetCode problems daily with clean code, exp
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
+| [3666-minimum-operations-to-equalize-binary-string](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -901,6 +904,7 @@ Consistent DSA practice — solving LeetCode problems daily with clean code, exp
 | [2685-count-the-number-of-complete-components](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/2685-count-the-number-of-complete-components) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/3532-path-existence-queries-in-a-graph-i) |
+| [3666-minimum-operations-to-equalize-binary-string](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 ## Enumeration
 |  |
 | ------- |
@@ -924,4 +928,8 @@ Consistent DSA practice — solving LeetCode problems daily with clean code, exp
 |  |
 | ------- |
 | [0180-consecutive-numbers](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0180-consecutive-numbers) |
+## Ordered Set
+|  |
+| ------- |
+| [3666-minimum-operations-to-equalize-binary-string](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 <!---LeetCode Topics End-->
