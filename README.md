@@ -541,6 +541,7 @@ Consistent DSA practice — solving LeetCode problems daily with clean code, exp
 | [0189-rotate-array](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0189-rotate-array) |
 | [0279-perfect-squares](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0279-perfect-squares) |
 | [0282-expression-add-operators](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0282-expression-add-operators) |
+| [0292-nim-game](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0292-nim-game) |
 | [0319-bulb-switcher](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0319-bulb-switcher) |
 | [0335-self-crossing](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0335-self-crossing) |
 | [0593-valid-square](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0593-valid-square) |
@@ -928,6 +929,7 @@ Consistent DSA practice — solving LeetCode problems daily with clean code, exp
 ## Brainteaser
 |  |
 | ------- |
+| [0292-nim-game](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0292-nim-game) |
 | [0319-bulb-switcher](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0319-bulb-switcher) |
 ## Shortest Path
 |  |
@@ -942,4 +944,8 @@ Consistent DSA practice — solving LeetCode problems daily with clean code, exp
 |  |
 | ------- |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/3666-minimum-operations-to-equalize-binary-string) |
+## Game Theory
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0292-nim-game) |
 <!---LeetCode Topics End-->
