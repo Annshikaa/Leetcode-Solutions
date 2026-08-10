@@ -71,6 +71,7 @@ Consistent DSA practice — solving LeetCode problems daily with clean code, exp
 | [0274-h-index](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0274-h-index) |
 | [0283-move-zeroes](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0283-move-zeroes) |
 | [0335-self-crossing](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0335-self-crossing) |
+| [0486-predict-the-winner](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0486-predict-the-winner) |
 | [0874-walking-robot-simulation](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0874-walking-robot-simulation) |
 | [0877-stone-game](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/1140-stone-game-ii) |
@@ -258,6 +259,7 @@ Consistent DSA practice — solving LeetCode problems daily with clean code, exp
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0198-house-robber](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0198-house-robber) |
 | [0279-perfect-squares](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0279-perfect-squares) |
+| [0486-predict-the-winner](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0486-predict-the-winner) |
 | [0788-rotated-digits](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0788-rotated-digits) |
 | [0799-champagne-tower](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0799-champagne-tower) |
 | [0877-stone-game](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0877-stone-game) |
@@ -563,6 +565,7 @@ Consistent DSA practice — solving LeetCode problems daily with clean code, exp
 | [0292-nim-game](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0292-nim-game) |
 | [0319-bulb-switcher](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0319-bulb-switcher) |
 | [0335-self-crossing](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0335-self-crossing) |
+| [0486-predict-the-winner](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0486-predict-the-winner) |
 | [0593-valid-square](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0593-valid-square) |
 | [0670-maximum-swap](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0670-maximum-swap) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
@@ -634,6 +637,7 @@ Consistent DSA practice — solving LeetCode problems daily with clean code, exp
 | [0044-wildcard-matching](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0044-wildcard-matching) |
 | [0050-powx-n](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0050-powx-n) |
 | [0060-permutation-sequence](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0060-permutation-sequence) |
+| [0486-predict-the-winner](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0486-predict-the-winner) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 ## Design
 |  |
@@ -980,18 +984,21 @@ Consistent DSA practice — solving LeetCode problems daily with clean code, exp
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0292-nim-game) |
+| [0486-predict-the-winner](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/1406-stone-game-iii) |
 ## Minimax
 |  |
 | ------- |
+| [0486-predict-the-winner](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/1406-stone-game-iii) |
 ## Zero-Sum Game
 |  |
 | ------- |
+| [0486-predict-the-winner](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/1406-stone-game-iii) |
