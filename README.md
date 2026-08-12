@@ -47,6 +47,7 @@ Consistent DSA practice — solving LeetCode problems daily with clean code, exp
 | [0120-triangle](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
+| [0128-longest-consecutive-sequence](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0130-surrounded-regions) |
 | [0134-gas-station](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0135-candy) |
@@ -491,6 +492,7 @@ Consistent DSA practice — solving LeetCode problems daily with clean code, exp
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0126-word-ladder-ii](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0127-word-ladder) |
+| [0128-longest-consecutive-sequence](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0133-clone-graph](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0133-clone-graph) |
 | [0138-copy-list-with-random-pointer](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0138-copy-list-with-random-pointer) |
 | [0139-word-break](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0139-word-break) |
@@ -954,6 +956,7 @@ Consistent DSA practice — solving LeetCode problems daily with clean code, exp
 ## Union-Find
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0130-surrounded-regions) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/1559-detect-cycles-in-2d-grid) |
