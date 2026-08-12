@@ -73,6 +73,7 @@ Consistent DSA practice — solving LeetCode problems daily with clean code, exp
 | [0283-move-zeroes](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0283-move-zeroes) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0312-burst-balloons](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0312-burst-balloons) |
+| [0313-super-ugly-number](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0313-super-ugly-number) |
 | [0335-self-crossing](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0335-self-crossing) |
 | [0486-predict-the-winner](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0486-predict-the-winner) |
 | [0874-walking-robot-simulation](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0874-walking-robot-simulation) |
@@ -268,6 +269,7 @@ Consistent DSA practice — solving LeetCode problems daily with clean code, exp
 | [0279-perfect-squares](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0279-perfect-squares) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0312-burst-balloons](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0312-burst-balloons) |
+| [0313-super-ugly-number](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0313-super-ugly-number) |
 | [0486-predict-the-winner](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0486-predict-the-winner) |
 | [0788-rotated-digits](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0788-rotated-digits) |
 | [0799-champagne-tower](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0799-champagne-tower) |
@@ -579,6 +581,7 @@ Consistent DSA practice — solving LeetCode problems daily with clean code, exp
 | [0279-perfect-squares](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0279-perfect-squares) |
 | [0282-expression-add-operators](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0282-expression-add-operators) |
 | [0292-nim-game](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0292-nim-game) |
+| [0313-super-ugly-number](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0313-super-ugly-number) |
 | [0319-bulb-switcher](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0319-bulb-switcher) |
 | [0335-self-crossing](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0335-self-crossing) |
 | [0486-predict-the-winner](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0486-predict-the-winner) |
