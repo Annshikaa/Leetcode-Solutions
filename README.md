@@ -372,6 +372,7 @@ Consistent DSA practice — solving LeetCode problems daily with clean code, exp
 | [0242-valid-anagram](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0242-valid-anagram) |
 | [0282-expression-add-operators](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0282-expression-add-operators) |
 | [0299-bulls-and-cows](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0299-bulls-and-cows) |
+| [0301-remove-invalid-parentheses](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0301-remove-invalid-parentheses) |
 | [0657-robot-return-to-origin](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0657-robot-return-to-origin) |
 | [0696-count-binary-substrings](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0696-count-binary-substrings) |
 | [0796-rotate-string](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0796-rotate-string) |
@@ -774,6 +775,7 @@ Consistent DSA practice — solving LeetCode problems daily with clean code, exp
 | [0133-clone-graph](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0133-clone-graph) |
 | [0207-course-schedule](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0207-course-schedule) |
 | [0279-perfect-squares](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0279-perfect-squares) |
+| [0301-remove-invalid-parentheses](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0301-remove-invalid-parentheses) |
 | [0310-minimum-height-trees](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0310-minimum-height-trees) |
 | [1306-jump-game-iii](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/1306-jump-game-iii) |
 | [1345-jump-game-iv](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/1345-jump-game-iv) |
@@ -822,6 +824,7 @@ Consistent DSA practice — solving LeetCode problems daily with clean code, exp
 | [0140-word-break-ii](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0140-word-break-ii) |
 | [0212-word-search-ii](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0212-word-search-ii) |
 | [0282-expression-add-operators](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0282-expression-add-operators) |
+| [0301-remove-invalid-parentheses](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0301-remove-invalid-parentheses) |
 | [0401-binary-watch](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0401-binary-watch) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Trie
