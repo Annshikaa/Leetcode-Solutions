@@ -1006,6 +1006,7 @@ Consistent DSA practice — solving LeetCode problems daily with clean code, exp
 |  |
 | ------- |
 | [0180-consecutive-numbers](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0180-consecutive-numbers) |
+| [0262-trips-and-users](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0262-trips-and-users) |
 ## Ordered Set
 |  |
 | ------- |
