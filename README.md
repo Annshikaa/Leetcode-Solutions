@@ -371,6 +371,7 @@ Consistent DSA practice — solving LeetCode problems daily with clean code, exp
 | [0212-word-search-ii](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0212-word-search-ii) |
 | [0242-valid-anagram](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0242-valid-anagram) |
 | [0282-expression-add-operators](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0282-expression-add-operators) |
+| [0299-bulls-and-cows](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0299-bulls-and-cows) |
 | [0657-robot-return-to-origin](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0657-robot-return-to-origin) |
 | [0696-count-binary-substrings](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0696-count-binary-substrings) |
 | [0796-rotate-string](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0796-rotate-string) |
@@ -513,6 +514,7 @@ Consistent DSA practice — solving LeetCode problems daily with clean code, exp
 | [0166-fraction-to-recurring-decimal](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0166-fraction-to-recurring-decimal) |
 | [0169-majority-element](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0242-valid-anagram) |
+| [0299-bulls-and-cows](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0299-bulls-and-cows) |
 | [0874-walking-robot-simulation](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0874-walking-robot-simulation) |
 | [1156-swap-for-longest-repeated-character-substring](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/1156-swap-for-longest-repeated-character-substring) |
 | [1189-maximum-number-of-balloons](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/1189-maximum-number-of-balloons) |
@@ -679,6 +681,7 @@ Consistent DSA practice — solving LeetCode problems daily with clean code, exp
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0169-majority-element) |
+| [0299-bulls-and-cows](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0299-bulls-and-cows) |
 | [1189-maximum-number-of-balloons](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/1189-maximum-number-of-balloons) |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
