@@ -106,6 +106,7 @@ Consistent DSA practice — solving LeetCode problems daily with clean code, exp
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1914-cyclically-rotating-a-grid](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/1914-cyclically-rotating-a-grid) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [2029-stone-game-ix](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/2029-stone-game-ix) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2126-destroying-asteroids](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
@@ -429,6 +430,7 @@ Consistent DSA practice — solving LeetCode problems daily with clean code, exp
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1833-maximum-ice-cream-bars](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/1833-maximum-ice-cream-bars) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [2029-stone-game-ix](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/2029-stone-game-ix) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2126-destroying-asteroids](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
@@ -610,6 +612,7 @@ Consistent DSA practice — solving LeetCode problems daily with clean code, exp
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1840-maximum-building-height](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/1840-maximum-building-height) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
+| [2029-stone-game-ix](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/2029-stone-game-ix) |
 | [2514-count-anagrams](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/2514-count-anagrams) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
@@ -694,6 +697,7 @@ Consistent DSA practice — solving LeetCode problems daily with clean code, exp
 | [1189-maximum-number-of-balloons](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/1189-maximum-number-of-balloons) |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
+| [2029-stone-game-ix](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/2029-stone-game-ix) |
 | [2514-count-anagrams](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/2514-count-anagrams) |
 | [2833-furthest-point-from-origin](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/2833-furthest-point-from-origin) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -1035,6 +1039,7 @@ Consistent DSA practice — solving LeetCode problems daily with clean code, exp
 | [1140-stone-game-ii](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/1406-stone-game-iii) |
 | [1563-stone-game-v](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/1563-stone-game-v) |
+| [2029-stone-game-ix](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/2029-stone-game-ix) |
 ## Minimax
 |  |
 | ------- |
@@ -1042,6 +1047,7 @@ Consistent DSA practice — solving LeetCode problems daily with clean code, exp
 | [0877-stone-game](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/1406-stone-game-iii) |
+| [2029-stone-game-ix](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/2029-stone-game-ix) |
 ## Zero-Sum Game
 |  |
 | ------- |
@@ -1049,4 +1055,9 @@ Consistent DSA practice — solving LeetCode problems daily with clean code, exp
 | [0877-stone-game](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/1406-stone-game-iii) |
+| [2029-stone-game-ix](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/2029-stone-game-ix) |
+## Nim Game
+|  |
+| ------- |
+| [2029-stone-game-ix](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/2029-stone-game-ix) |
 <!---LeetCode Topics End-->
