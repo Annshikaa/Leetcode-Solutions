@@ -138,6 +138,7 @@ Consistent DSA practice — solving LeetCode problems daily with clean code, exp
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3488-closest-equal-element-queries](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/3488-closest-equal-element-queries) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/3514-number-of-unique-xor-triplets-ii) |
@@ -537,6 +538,7 @@ Consistent DSA practice — solving LeetCode problems daily with clean code, exp
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/3121-count-the-number-of-special-characters-ii) |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3488-closest-equal-element-queries](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/3488-closest-equal-element-queries) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/3548-equal-sum-grid-partition-ii) |
