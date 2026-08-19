@@ -126,6 +126,7 @@ Consistent DSA practice — solving LeetCode problems daily with clean code, exp
 | [2784-check-if-array-is-good](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/2784-check-if-array-is-good) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2906-construct-product-matrix](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/2906-construct-product-matrix) |
+| [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
@@ -239,6 +240,7 @@ Consistent DSA practice — solving LeetCode problems daily with clean code, exp
 | [2161-partition-array-according-to-given-pivot](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2553-separate-the-digits-in-an-array](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/2553-separate-the-digits-in-an-array) |
 | [2751-robot-collisions](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/2751-robot-collisions) |
+| [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3612-process-string-with-special-operations-i](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/3612-process-string-with-special-operations-i) |
 | [3614-process-string-with-special-operations-ii](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/3614-process-string-with-special-operations-ii) |
 | [3838-weighted-word-mapping](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/3838-weighted-word-mapping) |
@@ -328,6 +330,7 @@ Consistent DSA practice — solving LeetCode problems daily with clean code, exp
 | [2573-find-the-string-with-lcp](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/2573-find-the-string-with-lcp) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2906-construct-product-matrix](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/2906-construct-product-matrix) |
+| [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3225-maximum-score-from-grid-operations](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/3225-maximum-score-from-grid-operations) |
@@ -617,6 +620,7 @@ Consistent DSA practice — solving LeetCode problems daily with clean code, exp
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [2029-stone-game-ix](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/2029-stone-game-ix) |
 | [2514-count-anagrams](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/2514-count-anagrams) |
+| [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
