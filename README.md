@@ -467,6 +467,7 @@ Consistent DSA practice — solving LeetCode problems daily with clean code, exp
 | [0146-lru-cache](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0146-lru-cache) |
 | [0147-insertion-sort-list](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0147-insertion-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0160-intersection-of-two-linked-lists) |
+| [0206-reverse-linked-list](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0206-reverse-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Divide and Conquer
@@ -683,6 +684,7 @@ Consistent DSA practice — solving LeetCode problems daily with clean code, exp
 | [0044-wildcard-matching](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0044-wildcard-matching) |
 | [0050-powx-n](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0050-powx-n) |
 | [0060-permutation-sequence](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0060-permutation-sequence) |
+| [0206-reverse-linked-list](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0206-reverse-linked-list) |
 | [0486-predict-the-winner](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0486-predict-the-winner) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 ## Design
