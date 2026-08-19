@@ -68,6 +68,7 @@ Consistent DSA practice — solving LeetCode problems daily with clean code, exp
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0189-rotate-array](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0198-house-robber) |
+| [0209-minimum-size-subarray-sum](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0212-word-search-ii](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0212-word-search-ii) |
 | [0274-h-index](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0274-h-index) |
 | [0283-move-zeroes](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0283-move-zeroes) |
@@ -571,6 +572,7 @@ Consistent DSA practice — solving LeetCode problems daily with clean code, exp
 | [0003-longest-substring-without-repeating-characters](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0076-minimum-window-substring](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0076-minimum-window-substring) |
+| [0209-minimum-size-subarray-sum](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [1156-swap-for-longest-repeated-character-substring](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/1156-swap-for-longest-repeated-character-substring) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1871-jump-game-vii](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/1871-jump-game-vii) |
@@ -724,6 +726,7 @@ Consistent DSA practice — solving LeetCode problems daily with clean code, exp
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0209-minimum-size-subarray-sum](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [2540-minimum-common-value](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/2540-minimum-common-value) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3161-block-placement-queries](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/3161-block-placement-queries) |
@@ -911,6 +914,7 @@ Consistent DSA practice — solving LeetCode problems daily with clean code, exp
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [1140-stone-game-ii](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/1140-stone-game-ii) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1732-find-the-highest-altitude](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/1732-find-the-highest-altitude) |
