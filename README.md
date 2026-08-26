@@ -76,6 +76,7 @@ Consistent DSA practice — solving LeetCode problems daily with clean code, exp
 | [0312-burst-balloons](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0312-burst-balloons) |
 | [0313-super-ugly-number](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0313-super-ugly-number) |
 | [0335-self-crossing](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0335-self-crossing) |
+| [0336-palindrome-pairs](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0336-palindrome-pairs) |
 | [0349-intersection-of-two-arrays](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0486-predict-the-winner](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0486-predict-the-winner) |
 | [0874-walking-robot-simulation](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0874-walking-robot-simulation) |
@@ -390,6 +391,7 @@ Consistent DSA practice — solving LeetCode problems daily with clean code, exp
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0299-bulls-and-cows](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0299-bulls-and-cows) |
 | [0301-remove-invalid-parentheses](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0301-remove-invalid-parentheses) |
+| [0336-palindrome-pairs](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0336-palindrome-pairs) |
 | [0657-robot-return-to-origin](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0657-robot-return-to-origin) |
 | [0696-count-binary-substrings](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0696-count-binary-substrings) |
 | [0796-rotate-string](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0796-rotate-string) |
@@ -539,6 +541,7 @@ Consistent DSA practice — solving LeetCode problems daily with clean code, exp
 | [0169-majority-element](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0242-valid-anagram) |
 | [0299-bulls-and-cows](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0299-bulls-and-cows) |
+| [0336-palindrome-pairs](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0336-palindrome-pairs) |
 | [0349-intersection-of-two-arrays](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0874-walking-robot-simulation](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0874-walking-robot-simulation) |
 | [1156-swap-for-longest-repeated-character-substring](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/1156-swap-for-longest-repeated-character-substring) |
@@ -878,6 +881,7 @@ Consistent DSA practice — solving LeetCode problems daily with clean code, exp
 | [0139-word-break](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0140-word-break-ii) |
 | [0212-word-search-ii](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0212-word-search-ii) |
+| [0336-palindrome-pairs](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0336-palindrome-pairs) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3093-longest-common-suffix-queries](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/3093-longest-common-suffix-queries) |
@@ -1099,4 +1103,8 @@ Consistent DSA practice — solving LeetCode problems daily with clean code, exp
 |  |
 | ------- |
 | [2029-stone-game-ix](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/2029-stone-game-ix) |
+## Hash Function
+|  |
+| ------- |
+| [0336-palindrome-pairs](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0336-palindrome-pairs) |
 <!---LeetCode Topics End-->
