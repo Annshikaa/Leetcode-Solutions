@@ -388,6 +388,7 @@ Consistent DSA practice — solving LeetCode problems daily with clean code, exp
 | [0171-excel-sheet-column-number](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0171-excel-sheet-column-number) |
 | [0179-largest-number](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0179-largest-number) |
 | [0212-word-search-ii](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0212-word-search-ii) |
+| [0214-shortest-palindrome](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0214-shortest-palindrome) |
 | [0242-valid-anagram](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0242-valid-anagram) |
 | [0282-expression-add-operators](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0282-expression-add-operators) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
@@ -781,6 +782,7 @@ Consistent DSA practice — solving LeetCode problems daily with clean code, exp
 ## String Matching
 |  |
 | ------- |
+| [0214-shortest-palindrome](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0214-shortest-palindrome) |
 | [0796-rotate-string](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0796-rotate-string) |
 | [3474-lexicographically-smallest-generated-string](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/3474-lexicographically-smallest-generated-string) |
 ## Depth-First Search
@@ -1117,5 +1119,22 @@ Consistent DSA practice — solving LeetCode problems daily with clean code, exp
 ## Hash Function
 |  |
 | ------- |
+| [0214-shortest-palindrome](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0214-shortest-palindrome) |
 | [0336-palindrome-pairs](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0336-palindrome-pairs) |
+## Rolling Hash
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0214-shortest-palindrome) |
+## Manacher
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0214-shortest-palindrome) |
+## Z Algorithm
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0214-shortest-palindrome) |
+## Knuth–Morris–Pratt Algorithm
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0214-shortest-palindrome) |
 <!---LeetCode Topics End-->
