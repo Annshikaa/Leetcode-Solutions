@@ -73,6 +73,7 @@ Consistent DSA practice — solving LeetCode problems daily with clean code, exp
 | [0213-house-robber-ii](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0213-house-robber-ii) |
 | [0216-combination-sum-iii](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0216-combination-sum-iii) |
 | [0274-h-index](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0274-h-index) |
+| [0275-h-index-ii](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0275-h-index-ii) |
 | [0283-move-zeroes](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0283-move-zeroes) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0312-burst-balloons](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0312-burst-balloons) |
@@ -768,6 +769,7 @@ Consistent DSA practice — solving LeetCode problems daily with clean code, exp
 | [0162-find-peak-element](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
+| [0275-h-index-ii](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0275-h-index-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [2540-minimum-common-value](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/2540-minimum-common-value) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
