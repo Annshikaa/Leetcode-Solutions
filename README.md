@@ -555,6 +555,7 @@ Consistent DSA practice — solving LeetCode problems daily with clean code, exp
 | [0160-intersection-of-two-linked-lists](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0166-fraction-to-recurring-decimal](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0166-fraction-to-recurring-decimal) |
 | [0169-majority-element](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0169-majority-element) |
+| [0202-happy-number](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0242-valid-anagram) |
 | [0299-bulls-and-cows](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0299-bulls-and-cows) |
@@ -635,6 +636,7 @@ Consistent DSA practice — solving LeetCode problems daily with clean code, exp
 | [0171-excel-sheet-column-number](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0171-excel-sheet-column-number) |
 | [0172-factorial-trailing-zeroes](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0202-happy-number) |
 | [0279-perfect-squares](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0279-perfect-squares) |
 | [0282-expression-add-operators](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0282-expression-add-operators) |
 | [0292-nim-game](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0292-nim-game) |
@@ -700,6 +702,7 @@ Consistent DSA practice — solving LeetCode problems daily with clean code, exp
 | [0165-compare-version-numbers](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0165-compare-version-numbers) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0696-count-binary-substrings](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0696-count-binary-substrings) |
@@ -1172,4 +1175,8 @@ Consistent DSA practice — solving LeetCode problems daily with clean code, exp
 |  |
 | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0173-binary-search-tree-iterator) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
