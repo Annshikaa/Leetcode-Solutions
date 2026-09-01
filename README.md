@@ -400,6 +400,7 @@ Consistent DSA practice — solving LeetCode problems daily with clean code, exp
 | [0212-word-search-ii](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0212-word-search-ii) |
 | [0214-shortest-palindrome](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0214-shortest-palindrome) |
 | [0242-valid-anagram](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0242-valid-anagram) |
+| [0273-integer-to-english-words](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0273-integer-to-english-words) |
 | [0282-expression-add-operators](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0282-expression-add-operators) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0299-bulls-and-cows](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0299-bulls-and-cows) |
@@ -640,6 +641,7 @@ Consistent DSA practice — solving LeetCode problems daily with clean code, exp
 | [0172-factorial-trailing-zeroes](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0202-happy-number) |
+| [0273-integer-to-english-words](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0273-integer-to-english-words) |
 | [0279-perfect-squares](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0279-perfect-squares) |
 | [0282-expression-add-operators](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0282-expression-add-operators) |
 | [0292-nim-game](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0292-nim-game) |
@@ -727,6 +729,7 @@ Consistent DSA practice — solving LeetCode problems daily with clean code, exp
 | [0050-powx-n](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0050-powx-n) |
 | [0060-permutation-sequence](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0060-permutation-sequence) |
 | [0206-reverse-linked-list](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0206-reverse-linked-list) |
+| [0273-integer-to-english-words](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0273-integer-to-english-words) |
 | [0486-predict-the-winner](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0486-predict-the-winner) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 ## Design
