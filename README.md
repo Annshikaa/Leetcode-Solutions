@@ -183,6 +183,7 @@ Consistent DSA practice — solving LeetCode problems daily with clean code, exp
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
 | [3742-maximum-path-score-in-a-grid](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/3742-maximum-path-score-in-a-grid) |
 | [3838-weighted-word-mapping](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/3838-weighted-word-mapping) |
+| [3875-construct-uniform-parity-array-i](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/3875-construct-uniform-parity-array-i) |
 ## Stack
 |  |
 | ------- |
@@ -687,6 +688,7 @@ Consistent DSA practice — solving LeetCode problems daily with clean code, exp
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 | [3783-mirror-distance-of-an-integer](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/3783-mirror-distance-of-an-integer) |
+| [3875-construct-uniform-parity-array-i](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/3875-construct-uniform-parity-array-i) |
 ## Two Pointers
 |  |
 | ------- |
