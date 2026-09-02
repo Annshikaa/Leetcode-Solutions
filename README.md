@@ -784,6 +784,7 @@ Consistent DSA practice — solving LeetCode problems daily with clean code, exp
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0275-h-index-ii](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0275-h-index-ii) |
+| [0278-first-bad-version](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0278-first-bad-version) |
 | [0349-intersection-of-two-arrays](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [2540-minimum-common-value](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/2540-minimum-common-value) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -1192,4 +1193,8 @@ Consistent DSA practice — solving LeetCode problems daily with clean code, exp
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0202-happy-number) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
