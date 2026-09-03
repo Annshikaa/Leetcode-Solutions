@@ -410,6 +410,7 @@ Consistent DSA practice — solving LeetCode problems daily with clean code, exp
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0299-bulls-and-cows](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0299-bulls-and-cows) |
 | [0301-remove-invalid-parentheses](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0301-remove-invalid-parentheses) |
+| [0306-additive-number](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0306-additive-number) |
 | [0336-palindrome-pairs](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0336-palindrome-pairs) |
 | [0657-robot-return-to-origin](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0657-robot-return-to-origin) |
 | [0696-count-binary-substrings](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0696-count-binary-substrings) |
@@ -924,6 +925,7 @@ Consistent DSA practice — solving LeetCode problems daily with clean code, exp
 | [0216-combination-sum-iii](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0216-combination-sum-iii) |
 | [0282-expression-add-operators](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0282-expression-add-operators) |
 | [0301-remove-invalid-parentheses](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0301-remove-invalid-parentheses) |
+| [0306-additive-number](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0306-additive-number) |
 | [0401-binary-watch](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0401-binary-watch) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Trie
