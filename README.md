@@ -200,6 +200,7 @@ Consistent DSA practice — solving LeetCode problems daily with clean code, exp
 | [0150-evaluate-reverse-polish-notation](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0155-min-stack) |
 | [0173-binary-search-tree-iterator](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0173-binary-search-tree-iterator) |
+| [0341-flatten-nested-list-iterator](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0341-flatten-nested-list-iterator) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2751-robot-collisions](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/2751-robot-collisions) |
 ## Sorting
@@ -758,6 +759,7 @@ Consistent DSA practice — solving LeetCode problems daily with clean code, exp
 | [0173-binary-search-tree-iterator](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0173-binary-search-tree-iterator) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0341-flatten-nested-list-iterator](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0341-flatten-nested-list-iterator) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0380-insert-delete-getrandom-o1) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [1622-fancy-sequence](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/1622-fancy-sequence) |
@@ -852,6 +854,7 @@ Consistent DSA practice — solving LeetCode problems daily with clean code, exp
 | [0211-design-add-and-search-words-data-structure](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0310-minimum-height-trees](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0310-minimum-height-trees) |
+| [0341-flatten-nested-list-iterator](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0341-flatten-nested-list-iterator) |
 | [1306-jump-game-iii](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/1306-jump-game-iii) |
 | [1382-balance-a-binary-search-tree](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/1382-balance-a-binary-search-tree) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
@@ -972,6 +975,7 @@ Consistent DSA practice — solving LeetCode problems daily with clean code, exp
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0173-binary-search-tree-iterator](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0173-binary-search-tree-iterator) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0341-flatten-nested-list-iterator](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0341-flatten-nested-list-iterator) |
 | [1382-balance-a-binary-search-tree](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/1382-balance-a-binary-search-tree) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/2196-create-binary-tree-from-descriptions) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
@@ -1207,6 +1211,7 @@ Consistent DSA practice — solving LeetCode problems daily with clean code, exp
 |  |
 | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0173-binary-search-tree-iterator) |
+| [0341-flatten-nested-list-iterator](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0341-flatten-nested-list-iterator) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
@@ -1220,4 +1225,8 @@ Consistent DSA practice — solving LeetCode problems daily with clean code, exp
 | ------- |
 | [0380-insert-delete-getrandom-o1](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0380-insert-delete-getrandom-o1) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
+## Queue
+|  |
+| ------- |
+| [0341-flatten-nested-list-iterator](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0341-flatten-nested-list-iterator) |
 <!---LeetCode Topics End-->
