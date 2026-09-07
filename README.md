@@ -79,6 +79,7 @@ Consistent DSA practice — solving LeetCode problems daily with clean code, exp
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0312-burst-balloons](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0312-burst-balloons) |
 | [0313-super-ugly-number](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0313-super-ugly-number) |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0335-self-crossing](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0335-self-crossing) |
 | [0336-palindrome-pairs](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0336-palindrome-pairs) |
 | [0349-intersection-of-two-arrays](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0349-intersection-of-two-arrays) |
@@ -524,6 +525,7 @@ Consistent DSA practice — solving LeetCode problems daily with clean code, exp
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0169-majority-element](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0169-majority-element) |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [1382-balance-a-binary-search-tree](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/1382-balance-a-binary-search-tree) |
 | [3719-longest-balanced-subarray-i](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/3721-longest-balanced-subarray-ii) |
@@ -543,6 +545,7 @@ Consistent DSA practice — solving LeetCode problems daily with clean code, exp
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0023-merge-k-sorted-lists) |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Hash Table
@@ -806,6 +809,7 @@ Consistent DSA practice — solving LeetCode problems daily with clean code, exp
 | [0209-minimum-size-subarray-sum](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0275-h-index-ii](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0275-h-index-ii) |
 | [0278-first-bad-version](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0278-first-bad-version) |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0349-intersection-of-two-arrays](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [2540-minimum-common-value](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/2540-minimum-common-value) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -1053,10 +1057,12 @@ Consistent DSA practice — solving LeetCode problems daily with clean code, exp
 ## Binary Indexed Tree
 |  |
 | ------- |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [3161-block-placement-queries](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/3161-block-placement-queries) |
 ## Segment Tree
 |  |
 | ------- |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [1622-fancy-sequence](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/1622-fancy-sequence) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [3161-block-placement-queries](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/3161-block-placement-queries) |
@@ -1155,6 +1161,7 @@ Consistent DSA practice — solving LeetCode problems daily with clean code, exp
 ## Ordered Set
 |  |
 | ------- |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 ## Game Theory
@@ -1233,4 +1240,8 @@ Consistent DSA practice — solving LeetCode problems daily with clean code, exp
 |  |
 | ------- |
 | [0341-flatten-nested-list-iterator](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0341-flatten-nested-list-iterator) |
+## Treap
+|  |
+| ------- |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0315-count-of-smaller-numbers-after-self) |
 <!---LeetCode Topics End-->
