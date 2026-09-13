@@ -86,6 +86,7 @@ Consistent DSA practice — solving LeetCode problems daily with clean code, exp
 | [0380-insert-delete-getrandom-o1](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0380-insert-delete-getrandom-o1) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0486-predict-the-winner](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0486-predict-the-winner) |
+| [0835-image-overlap](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0835-image-overlap) |
 | [0874-walking-robot-simulation](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0874-walking-robot-simulation) |
 | [0877-stone-game](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/1140-stone-game-ii) |
@@ -352,6 +353,7 @@ Consistent DSA practice — solving LeetCode problems daily with clean code, exp
 | [0130-surrounded-regions](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0130-surrounded-regions) |
 | [0174-dungeon-game](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0174-dungeon-game) |
 | [0212-word-search-ii](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0212-word-search-ii) |
+| [0835-image-overlap](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/0835-image-overlap) |
 | [1301-number-of-paths-with-max-score](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/1301-number-of-paths-with-max-score) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Annshikaa/Leetcode-Solutions/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
